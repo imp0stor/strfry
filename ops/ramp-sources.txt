@@ -1,0 +1,15 @@
+# Seed relay set for 100M ramp. Keep list quality-scored; top N only per wave.
+wss://relay.damus.io
+wss://nos.lol
+wss://relay.primal.net
+wss://relay.nostr.band
+wss://offchain.pub
+wss://relay.snort.social
+wss://nostr.mom
+wss://relay.nostr.bg
+wss://eden.nostr.land
+wss://purplepag.es
+wss://relay.current.fyi
+wss://nostr.wine
+wss://relay.nostr.net
+wss://nostr.fmt.wiz.biz
